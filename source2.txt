@@ -1,0 +1,598 @@
+
+ <!DOCTYPE html>
+<html>
+<head>
+        <title>Sonntags Club e. V.</title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0" name="viewport">
+        <meta http-equiv="content-style-type" content="text/html">
+        <meta name="title" content="Sonntags-Club">
+        <meta name="subject" content="Sonntags-Club">
+        <meta name="description" content="Beratungs-, Informations- und Kommunikations-Zentrum für Lesben, Schwule, Trans*, Inter* und Bisexuelle">
+        <meta name="keywords" content="schwul, lesbisch, transsexuell, transgender, projekt, verein, gemeinnützig, beratung, gruppe, café, bar, kneipe, veranstaltung, ausstellung, lesung, konzert">
+        <meta name="language" content="de">
+        <meta name="date" content="2024-04-08T14:42:57+0200" >
+        <meta name="robots" content="index, follow">
+        <meta name="revisit-after" content="30">
+        <base target="_top">
+        <link rel="stylesheet" type="text/css" href="../style/stylesheet.css">
+        <link rel="stylesheet" type="text/css" href="../style/stylesheet_tuerkis.css">
+        <script type="text/javascript" language="JavaScript" src="../script/javascript.js"></script>
+</head>
+
+<body>
+<!-- SEITENANFANG =================-->
+<a id="top"></a>
+
+<!-- LOGO =========================-->
+<div id="logo">
+        <a href="../index.php" accesskey="s"><img src="../logo/sc-logo_tuerkis.gif" alt="Logo Sonntags-Club mit Link zur Startseite" title="Logo Sonntagsclub mit Link zur Startseite"></a>
+</div>
+
+
+<!-- LINKE SPALTE: Hauptmenue, Untermenue -->
+<nav id="menuleft"><input class="show-menu visuallyHidden" id="show-menu" role="button" type="checkbox">
+        <div class="checkbox-toggle">
+                <label class="show-menu" for="show-menu">
+                        <span class="hamburger">
+                                <span class="bar bar1"></span>
+                                <span class="bar bar2"></span>
+                                <span class="bar bar3"></span>
+                                <span class="bar bar4"></span>
+                                <span class="bar bar5"></span>
+                        </span>
+                </label>
+                <div class="global-menu">
+<!-- Hauptmenue -->
+                        <ul id="menu">
+                                <li><a href="../wir.php" accesskey="w">wir</a></li>
+                                <li><a href="../projekte.php" accesskey="p">projekte</a></li>
+                                <li><a href="../programm.php" accesskey="p">programm</a></li>
+                                <li><a href="../gruppen.php" accesskey="g">gruppen</a></li>
+                                <li><a href="../beratung.php" accesskey="b">beratung</a></li>
+                                <li><a href="../cafe.php" accesskey="c">café</a></li>
+                                <li><a href="../info.php" accesskey="i">info</a></li>
+                                <li><a href="../unterstuetzung.php" accesskey="u">unterstützung</a></li>
+                        </ul>
+<!-- Untermenue -->
+                        <ul id="submenu">
+                                <hr>
+                                <li><a href="programm_aktuell.php" accesskey="a">april</a></li>
+                                <li><a href="programm_demnaechst.php" accesskey="m">mai</a></li>
+                                <li><a href="newsletter1.php" accesskey="n">newsletter</a></li>
+                        </ul>
+                </div>
+        </div>
+</nav>
+<!-- Ende linke Spalte (Menues) -->
+
+<!-- RECHTE SPALTE: Foto, Navigation, Text, Fusszeile -->
+<!-- Foto -->
+<div id="picture">
+        <img src="../images/programm/disco.jpg" alt="" title="">
+</div>
+
+<!--Brotkrumen-Pfad -->
+<div id="navigation">
+        <a href="../index.php">startseite</a> &gt;
+        <a href="../programm.php">programm</a> &gt;
+        <a href="programm_aktuell.php">april</a>
+</div>
+
+<!-- Text -->
+<div id="text">
+        <h1>der sonntags-club im april</h1>
+        <table>
+                <!-- Colgroup -->
+                <colgroup>
+                        <col width="75px">
+                </colgroup>
+
+								<tr>
+                        <td></td>
+                        <td><font color="red">
+                        </tr>  
+					 
+					 
+					
+			  
+             
+                <!-- 01 -->
+                <tr><th abbr="Datum">01</th><th>montag</th></tr>
+                
+              
+                <tr>
+                        <td>18:00</td>
+                        <td>Queer Stitch and Bitch / Queeres Handarbeitskränzchen</td>
+                </tr>  				 
+					
+                
+                
+                
+                <!-- 02 -->
+                <tr><th abbr="Datum">02</th><th>dienstag</th></tr>
+                
+                                
+                <tr>
+                        <td>19:00</td>
+                        <td>Der Dienstags-Club für TIN* und Freund*innen</td>
+                </tr>
+                 
+					
+                <!-- 03 -->
+                <tr><th abbr="Datum">03</th><th>mittwoch</th></tr>
+                
+                <tr>
+                        <td>18:00</td>
+                        <td>Zweite Halbzeit – Treff für ältere Schwule</td>
+                </tr>
+                
+                 <tr>
+                        <td>19:00</td>
+                        <td>Stammtisch Sportverein "Vorspiel"</td>
+                </tr>
+                
+                
+                <!-- 04 -->
+                <tr><th abbr="Datum">04</th><th>donnerstag</th></tr>
+               
+                <tr>
+                        <td>18:00</td>
+                        <td>NoAlk – trockene schwule Alkoholiker</td>
+                </tr>
+                
+                <tr>
+                        <td>19:00</td>
+                        <td>Einsteiger*innentreffen der Gruppe BDSM Berlin</td>
+                </tr> 
+                
+                <tr>
+                        <td>19:00</td>
+                        <td>Queerer Punk & Skin Stammtisch</td>
+                </tr> 
+                
+                <tr>
+                        <td>20:00</td>
+                        <td>TOP 30 – die Gruppe für Schwule über 30</td>
+                </tr>
+                
+                
+                
+                <!-- 05 -->
+                <tr><th abbr="Datum">05</th><th>freitag</td></tr>
+					  
+					 
+                <tr>
+                        <td>18:00</td>
+                        <td>FrauenLesben*Freitag - Der Abend für queere Frauen und nichtbinäre Lesben</td>
+                </tr>
+                
+               
+               
+                 <tr>
+                        <td>19:00</td>
+                        <td>FrauenLesben*Veranstaltungsgruppe – Orga-Treffen</td>
+                </tr>
+                
+                                 
+                <tr>
+                        <td>21:00</td>
+                        <td>side-effect - Frauen in Gesundheitsberufen</td>
+                </tr>
+                
+                <!-- 06 -->
+                <tr><th abbr="Datum">06</th><th>samstag</th></tr>
+		
+				  <tr>
+                        <td class="color">13:00</td>
+                        <td class="color">
+                                Fitness für Ältere/Men Only (Anmeldung erforderlich)<br>
+                                <a href="fitnessapril2hz.php"> &#8594; mehr infos</a>
+                        </td>
+                </tr>
+		
+                <tr>
+                        <td class="color">17:00</td>
+                        <td class="color">
+                               Podiumsdiskussion: "Neue Perspektiven auf die queere Weimarer Geschichte"<br>
+                                <a href="podium.php"> &#8594; mehr infos</a>
+                        </td>
+                </tr>
+
+					 <!-- 07 -->
+                <tr><th abbr="Datum">07</th><th>sonntag</th></tr>
+               
+          	<tr>
+                        <td class="color">16:00</td>
+                        <td class="color">
+                                Vernissage der Ausstellung: Raum und Zeit
+                                <br>Objekte - Bilder - Fotos<br>
+                                <a href="raumzeit.php"> &#8594; mehr infos</a>
+                        </td>
+                </tr>           
+                
+
+					 <!-- 08 -->
+                <tr><th abbr="Datum">08</th><th>montag</th></tr>
+                
+                <tr>
+                        <td>19:00</td>
+                        <td>Les*be`tween- Lesbische Frauen* ab ~29+, die sich mitten im Leben fühlen</td>
+                </tr>
+               
+					 <tr>
+                        <td>19:00</td>
+                        <td>Qyouth - Junge Erwachsene</td>
+                </tr>
+                
+                 <tr>
+                        <td>19:00</td>
+                        <td>Trans*Angehörige</td>
+                </tr>
+                
+                  <tr>
+                        <td>19:30</td>
+                        <td>Trans*Selbsthilfegruppe (mit Anmeldung)
+                        <br>Anmeldung über shg.nadja@gmail.com</td></td>
+                </tr>
+                
+                <!-- 09 -->
+                <tr><th abbr="Datum">09</th><th>dienstag</th></tr>          
+                
+					 <tr>
+                        <td>19:00</td>
+                        <td>Der Dienstags-Club für TIN* und Freund*innen</td>
+                </tr>
+                
+                <tr>
+                        <td class="color">19:30</td>
+                        <td class="color">
+                                Literaturvorstellung: „Mein lesbisches Auge“ - EINSAMKEIT<br>
+                                <a href="einsamkeit.php"> &#8594; mehr infos</a>
+                        </td>
+                </tr>
+
+                <!-- 10 -->
+                <tr><th abbr="Datum">10</th><th>mittwoch</th></tr>
+          
+                <tr>
+                        <td>18:00</td>
+                        <td>Zweite Halbzeit – Treff für ältere Schwule</td>
+                </tr>  
+  
+                <tr>
+                        <td>19:00</td>
+                        <td>Berlin Inter*sex</td>
+                </tr>                
+                    
+
+                <!-- 11 -->
+                <tr><th abbr="Datum">11</th><th>donnerstag</td></tr>
+
+                <tr>
+                        <td>18:00</td>
+                        <td>NoAlk – trockene schwule Alkoholiker</td>
+                </tr>
+                
+                <tr>
+                        <td>20:00</td>
+                        <td>TOP 30 – die Gruppe für Schwule über 30</td>
+                </tr>
+                
+                <!-- 12 -->
+                <tr><th abbr="Datum">12</th><th>freitag</td></tr>
+               
+               
+                <tr>
+                        <td>18:00</td>
+                        <td>FrauenLesben*Freitag - Der Abend für queere Frauen und nichtbinäre Lesben</td>
+                </tr>               
+                             
+ 					      
+                
+                <!-- 13 -->
+                <tr><th abbr="Datum">13</th><th>samstag</th></tr>
+                
+             	<tr>
+                        <td>13:00</td>
+                        <td>Fitness für Ältere/Men Only (Anmeldung erforderlich, siehe Eintrag 06.04.)</td>
+                </tr> 
+               
+                <tr>
+                        <td class="color">19:30</td>
+                        <td class="color">
+                                Eli Sánchez & The Olde White Men<br>
+                                <a href="elisanchez.php"> &#8594; mehr infos</a>
+                        </td>
+                </tr>               
+               
+                
+                <!-- 14 -->
+                <tr><th abbr="Datum">14</th><th>sonntag</td></tr>
+  					
+  				    
+                 <tr>
+                        <td>18:00</td>
+                        <td>Café geöffnet</td>
+                </tr>
+
+                <!-- 15 -->
+                <tr><th abbr="Datum">15</th><th>montag</th></tr>
+
+                 <tr>
+                        <td>19:30</td>
+                        <td>Bären und Kerletreff</td>
+                </tr>
+                
+                
+                
+                <!-- 16 -->
+                <tr><th abbr="Datum">16</th><th>dienstag</th></tr>          
+                
+					 <tr>
+                        <td>19:00</td>
+                        <td>Der Dienstags-Club für TIN* und Freund*innen</td>
+                </tr>
+             
+					 <tr>
+                        <td>19:30</td>
+                        <td>TransMasc-Treffen</td>
+                </tr>
+
+                <!-- 17 -->
+                <tr><th abbr="Datum">17</th><th>mittwoch</th></tr>
+          
+                <tr>
+                        <td>18:00</td>
+                        <td>Zweite Halbzeit – Treff für ältere Schwule</td>
+                </tr>  
+                
+                  <tr>
+                        <td>19:00</td>
+                        <td>A-Spec* Berlin - Queere Menschen aus dem A-Spektrum</td>
+                </tr>  
+               
+                <!-- 18 -->
+                <tr><th abbr="Datum">18</th><th>donnerstag</td></tr>
+                
+                <tr>
+                        <td>18:00</td>
+                        <td>NoAlk – trockene schwule Alkoholiker</td>
+                </tr>
+                               
+					
+                <tr>
+                        <td>20:00</td>
+                        <td>TOP 30 – die Gruppe für Schwule über 30</td>
+                </tr>
+                
+                <!-- 19 -->
+                <tr><th abbr="Datum">19</th><th>freitag</td></tr>
+									 
+ 							
+                
+                <tr>
+                        <td>18:00</td>
+                        <td>FrauenLesben*Freitag - Der Abend für queere Frauen und nichtbinäre Lesben</td>
+                </tr>	 
+				
+					<tr>
+                        <td>18:00</td>
+                        <td>FLINTA* D&D Gruppe</td>
+                </tr>       
+				
+				
+				<tr>
+                        <td class="color">19:00</td>
+                        <td class="color">
+                                Lesung: Andrea Landfried  - Pasteurgasse 4, täglich<br>
+                                <a href="langfried.php"> &#8594; mehr infos</a>
+                        </td>
+                </tr> 
+					 
+					
+                <!-- 20 -->
+                <tr><th abbr="Datum">20</th><th>samstag</th></tr>
+                
+                <tr>
+                        <td class="color">19:00</td>
+                        <td class="color">
+                                Konzert von LASMA: E-Gitarristin<br>
+                        <a href="lasma.php"> &#8594; mehr infos</a>
+                        </td>
+                </tr> 
+                
+                <!-- 21 -->
+                <tr><th abbr="Datum">21</th><th>sonntag</td></tr>
+					 <tr>
+                        <td class="color"></td>
+                        <td class="color">
+                                Queeres Wandern<br>
+                                <a href="queereswandernapril.php"> &#8594; mehr infos</a>
+                        </td>
+                </tr> 
+                
+                
+  					<tr>
+                        <td>13:00</td>
+                        <td>Fitness für Ältere/Men Only (Anmeldung erforderlich, siehe Eintrag 06.04.)</td>
+                </tr> 
+				    
+                <tr>
+                        <td>18:00</td>
+                        <td>Café geöffnet</td>
+                </tr>
+                
+                
+               <!-- 22 -->
+                <tr><th abbr="Datum">22</th><th>montag</th></tr>
+                
+                               
+                <tr>
+                        <td>19:00</td>
+                        <td>Les*be`tween- Lesbische Frauen* ab ~29+, die sich mitten im Leben fühlen</td>
+                </tr>
+                
+                <tr>
+                        <td>19:00</td>
+                        <td>Qyouth - Junge Erwachsene</td>
+                </tr>
+                	   
+                
+              <!-- 23 -->
+                <tr><th abbr="Datum">23</th><th>dienstag</th></tr>
+                
+                <tr>
+                        <td>19:00</td>
+                        <td>Der Dienstags-Club für TIN* und Freund*innen</td>
+                </tr>
+                
+                 
+                
+                
+					<tr>
+                        <td>19:00</td>
+                        <td>TIN + friends - BDSM Stammtisch</td>
+                </tr>
+                
+                
+            <!-- 24 -->
+                <tr><th abbr="Datum">24</th><th>mittwoch</th></tr>
+          
+                <tr>
+                        <td>18:00</td>
+                        <td>Zweite Halbzeit – Treff für ältere Schwule</td>
+                </tr>   
+                
+                  <tr>
+                        <td>19:00</td>
+                        <td>Transmasc-Treffen ü40</td>
+                </tr>
+                
+                 <tr>
+                        <td>19:00</td>
+                        <td>Selbsthilfegruppe - Schwule Männer mit Prostatakrebs</td>
+                </tr>
+                
+                
+            <!-- 25 -->
+                <tr><th abbr="Datum">25</th><th>donnerstag</td></tr>
+                
+                <tr>
+                        <td>18:00</td>
+                        <td>NoAlk – trockene schwule Alkoholiker</td>
+                </tr>
+                
+                <tr>
+                        <td>19:00</td>
+                        <td>Lokruf - Schwuler Freundeskreis Schienenverkehr</td>
+                </tr>                
+                <tr>
+                        <td>19:30</td>
+                        <td>Bi-Treffen</td>
+                </tr>
+                <tr>
+                        <td>20:00</td>
+                        <td>TOP 30 – die Gruppe für Schwule über 30</td>
+                </tr>  
+                
+                
+                <!-- 26 -->
+                <tr><th abbr="Datum">26</th><th>freitag</td></tr>
+									 
+ 						<tr>
+                        <td class="color">12:00</td>
+                        <td class="color">
+                                2. Halbzeit macht einen Ausflug nach Potsdam. (Anmeldung erforderlich.)<br>
+                                <a href="walkapril2hz.php"> &#8594; mehr infos</a>
+                        </td>
+                </tr>				
+                
+                <tr>
+                        <td>18:00</td>
+                        <td>FrauenLesben*Freitag - Der Abend für queere Frauen und nichtbinäre Lesben</td>
+                </tr>	 
+				
+					  <tr>
+                        <td class="color">19:00</td>
+                        <td class="color">
+                                Afterworkparty mit Djane Schnuppe: let’s shake (bis 22 Uhr)<br>
+                        <a href="afterwork.php"> &#8594; mehr infos</a>
+                        </td>
+                </tr> 
+					
+                <!-- 27 -->
+                <tr><th abbr="Datum">27</th><th>samstag</th></tr>
+                
+                  <tr>
+                        <td>14:00</td>
+                        <td>Queer Gamers Berlin</td>
+                </tr>
+               
+               <tr>
+                        <td>19:00</td>
+                        <td>Das Duo "Whos Who". Hits der 60er bis 80er Jahre</td>
+                </tr>
+ 					
+					
+                
+                <!-- 28 -->
+                <tr><th abbr="Datum">28</th><th>sonntag</td></tr>
+
+					<tr>
+                        <td class="color">15:00</td>
+                        <td class="color">
+                                Film-Club<br>
+                                <a href="filmclubapril.php"> &#8594; mehr infos</a>
+                        </td>
+                </tr>
+					
+				            
+                
+                <tr>
+                        <td>18:00</td>
+                        <td>Café geöffnet</td>
+                </tr>  
+                             
+                 
+                <!-- 29 -->
+                <tr><th abbr="Datum">29</th><th>montag</td></tr>
+              
+                
+                <tr>
+                        <td>19:30</td>
+                        <td>Queere Trauergruppe (Kontakt: Nadja Schallenberg, <a class="color" href="mailto:rosen4u@gmx.com">rosen4u@gmx.com</a><br></td></td></td>
+                </tr>              
+                
+                <!-- 30 -->
+                <tr><th abbr="Datum">30</th><th>dienstag</th></tr>
+                
+                <tr>
+                        <td>19:00</td>
+                        <td>Der Dienstags-Club für TIN* und Freund*innen</td>
+                </tr>
+                
+               
+                
+                
+
+        </table>
+</div>
+
+
+
+<!-- FUSSZEILE ========================-->
+<div id="footnote">
+        <a id="gotop" href="#top" accesskey="z">zum Seitenanfang</a>
+        &copy; sonntags-club, 2024 &nbsp;&middot;
+	<a href="/datenschutz.php" accesskey="d">datenschutz</a> &middot;
+        <a href="/newsletter.php" accesskey="n">newsletter</a> &middot;
+        <a href="/impressum.php">impressum</a> &middot;
+        <a href="/site-map.php" accesskey="s">site&#8209;map</a>
+</div>
+
+<!-- Ende rechte Spalte (Foto, Navigation, Text, Fußzeile) -->
+</body>
+</html>
+
+<!-- Ende HTML ========================-->
